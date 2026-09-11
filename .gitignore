@@ -4,7 +4,9 @@
 # Tài liệu nội bộ của giảng viên — không phát cho học viên
 docs/
 
+venv/
 .venv/
+test_*.py
 __pycache__/
 .pytest_cache/
 solution.zip
