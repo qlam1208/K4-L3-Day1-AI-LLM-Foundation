@@ -94,7 +94,7 @@ Cải thiện đề xuất: Triển khai bộ nhớ bất biến (in-memory pers
 
 ## Danh Sách Kiểm Tra Nộp Bài
 
-- [ ] `python grade.py` — xem điểm tự động, mục tiêu ≥ 75/100
-- [ ] Cả 4 checkpoint pytest đều pass
-- [ ] Tất cả 9 câu trong file này đã được trả lời
-- [ ] Đã copy bài làm vào folder `solution/`, push lên fork và dán link trên trang bài Lab ở VLearn trước 23:59 ngày 11/09/2026
+- [X] `python grade.py` — xem điểm tự động, mục tiêu ≥ 75/100
+- [X] Cả 4 checkpoint pytest đều pass
+- [X] Tất cả 9 câu trong file này đã được trả lời
+- [X] Đã copy bài làm vào folder `solution/`, push lên fork và dán link trên trang bài Lab ở VLearn trước 23:59 ngày 11/09/2026
